@@ -8,11 +8,11 @@ const app = new Vue({
         previews: {},
         lists: [
           {
-            img: 'https://avatars2.githubusercontent.com/u/15681693?s=460&v=4'
+            img: 'https://www.imagehub.cc/image/1kdhPU'
           }
         ],
         option: {
-          img: 'https://avatars2.githubusercontent.com/u/15681693?s=460&v=4',
+          img: 'https://www.imagehub.cc/image/1kdhPU',
           size: 1,
           full: false,
           outputType: 'png',
